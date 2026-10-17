@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "versionCode": 15,
-  "versionName": "1.5.0",
+  "versionCode": 14,
+  "versionName": "1.4.0",
   "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Windows/releases/download/14/BeedeokeHivePC_v14.exe",
   "changelog": "",
   "forceUpdate": true
