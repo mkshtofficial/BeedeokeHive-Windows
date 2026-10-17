@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "versionCode": 15,
-  "versionName": "1.5.46",
-  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Windows/releases/download/1.5.46/BeedeokeHive-1.5.46-v15-win-x64-Setup.exe",
+  "versionCode": 16,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Windows/releases/download/1.6.0/BeedeokeHive-1.6.0-v16-win-x64-Setup.exe",
   "changelog": "Test Change Logs Update",
   "forceUpdate": true
 }
