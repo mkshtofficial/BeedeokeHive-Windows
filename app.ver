@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "versionCode": 16,
-  "versionName": "1.6.0",
+  "versionCode": 162,
+  "versionName": "1.62.5",
   "apkUrl": "https://github.com/mkshtofficial/BeedeokeHive-Windows/releases/download/1.62.5/BeedeokeHive-1.62.5-v16-win-x64-Setup.exe",
   "changelog": "• Hotfix: Reserved not Playing when stop\n• Hotfix: Settings UI Responsive\n\nLibrary Updated. Download the new Library (Requires Activation)",
   "forceUpdate": true
